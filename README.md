@@ -1,5 +1,5 @@
 # Fotopletysmogram
-This is an Arduino project to make a heart rate monitor
+This is an Arduino project to make a heart rate monitor.
 
 ## Upload sketch to Raspberry Pi Pico
 
