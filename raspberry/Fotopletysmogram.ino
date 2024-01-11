@@ -50,10 +50,13 @@
 #include <Wire.h>
 #include "MAX30105.h"
 #define SEND_TIME_PERIOD 40 //v akej perióde sa odosielajú dáta (ms)
-#define SAMPLE_RATE  3200; //Options: 50, 100, 200, 400, 800, 1000, 1600, 3200
-MAX30105 particleSensor;
+#define SAMPLE_RATE  3200 //Options: 50, 100, 200, 400, 800, 1000, 1600, 3200
+
 #define I2C_SDA 4
 #define I2C_SCL 5
+
+MAX30105 particleSensor;
+
 void setup()
 {
   Serial.begin(115200);
