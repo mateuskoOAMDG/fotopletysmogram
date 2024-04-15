@@ -12,3 +12,12 @@ Compile  sketch *.ino* and upload to Raspeberry Pi Pico
 
 To run the program for data collection and visualization on a PC, it is necessary to have Python (v3.10) and the pyserial library (v3.5) installed.
 
+## New version ##
+Version 1
+New version of the program for displaying the photoplethysmogram *MeraniePulzuSrdca (1.2.2).py*
+only works with Raspberry Pi firmware *PicoFotopletysmogram_V1.ino*
+Features:
+- automatic port search and connection of the program to the sensor
+- elimination of program freezing problems
+
+
