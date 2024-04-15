@@ -1,4 +1,4 @@
-# Fotopletysmogram
+# Photopletysmogram
 This is an Arduino project to make a heart rate monitor.
 See [Wiki](https://github.com/mateuskoOAMDG/fotopletysmogram/wiki/Fotopletyzmogram)
 
